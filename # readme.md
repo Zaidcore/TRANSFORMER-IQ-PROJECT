@@ -56,7 +56,7 @@ The dataset contains the following columns:
 
 The six load-related features are used as input variables.
 
-Dataset source: https://github.com/zhouhaoyi/ETDataset
+Dataset source: (https://github.com/Zaidcore/TRANSFORMER-IQ-PROJECT/blob/main/ETTh1%20(1).csv)
 
 ---
 
